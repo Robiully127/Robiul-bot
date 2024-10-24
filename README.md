@@ -1,5 +1,5 @@
-<img src="https://i.imgur.com/PRI7bda.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗝𝗢𝗬-𝗕𝗢𝗧 - 𝗝𝗢𝗬 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
+<img src="https://i.imgur.com/rTXXK4E.jpeg" alt="banner">
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗥𝗢𝗕𝗜𝗨𝗟 𝗞𝗜𝗡𝗚 👑</h1>
 <!-- Github README -->
 
 <p align="center"><img src="https://img.shields.io/badge/I Am %20BANGLADESHI- NOOB PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
@@ -32,7 +32,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗡𝗔𝗠𝗘      : 𝗠𝗗 𝗝𝗨𝗕𝗔𝗘𝗗 𝗔𝗛𝗠𝗘𝗗 𝗝𝗢𝗬
+- ➪ 𝗡𝗔𝗠𝗘      : 𝗥𝗢𝗕𝗜𝗨𝗟 𝗞𝗜𝗡𝗚 👑
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -48,11 +48,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗠𝗗 𝗝𝗨𝗕𝗔𝗘𝗗 𝗔𝗛𝗠𝗘𝗗 𝗝𝗢𝗬 ](https://www.facebook.com/mdjubaedahmedjoy?mibextid=ZbWKwL)
+- ➪ 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :- [𝗥𝗢𝗕𝗜𝗨𝗟 𝗞𝗜𝗡𝗚 👑 ](https://www.facebook.com/profile.php?id=100093774930731&mibextid=kFxxJD)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝗝𝗢𝗬 𝗔𝗛𝗠𝗘𝗗 ](https://www.instagram.com/mdjubaedahmedtt1)
+- ➪ 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 :- [𝗥𝗢𝗕𝗜𝗨𝗟 𝗞𝗜𝗡𝗚 👑 ]
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
